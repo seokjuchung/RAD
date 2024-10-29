@@ -1,3 +1,5 @@
+# RAD
+
 1. Input Data and preprocessing: https://github.com/uboone/OpenSamples
 Use the hdf5 files, 'Inclusive, WithWire'
 
@@ -39,5 +41,3 @@ If one has to install the environments from scratch, the `.txt` folders have dep
 Defined in `models.py`
 
 `teacher_reshape` and `teacher_dense`, `teacher_reshape2` values need to be changed according with the prepocessed input image size
-
-# RAD
