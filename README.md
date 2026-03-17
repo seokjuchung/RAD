@@ -1,4 +1,5 @@
-# RAD
+# Real-time Anomaly Detection for Liquid Argon Time Projection Chambers
+[![arXiv](https://img.shields.io/badge/arXiv-2512.06208-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2509.21817)
 
 1. Input Data and preprocessing: https://github.com/uboone/OpenSamples
 Use the hdf5 files, `Inclusive, WithWire`
