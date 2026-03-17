@@ -1,7 +1,7 @@
 # RAD
 
 1. Input Data and preprocessing: https://github.com/uboone/OpenSamples
-Use the hdf5 files, 'Inclusive, WithWire'
+Use the hdf5 files, `Inclusive, WithWire`
 
 Use `ubopendata` conda environment for this part
 
